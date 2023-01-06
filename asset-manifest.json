@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a32befe5.css",
-    "main.js": "/static/js/main.3e2201dc.js",
+    "main.js": "/static/js/main.7f936d10.js",
     "static/js/227.aff8e432.chunk.js": "/static/js/227.aff8e432.chunk.js",
     "static/js/526.bfb1337c.chunk.js": "/static/js/526.bfb1337c.chunk.js",
     "static/js/232.3992674c.chunk.js": "/static/js/232.3992674c.chunk.js",
     "static/js/237.99ef72b2.chunk.js": "/static/js/237.99ef72b2.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/storigami2.png": "/static/media/storigami2.2e71984b7e63b6dc5965.png",
-    "static/media/about-self.jpg": "/static/media/about-self.c9104c8a40eeb546ab70.jpg",
+    "static/media/about-self.jpg": "/static/media/about-self.517a146e425a34d0ec07.jpg",
     "static/media/head-1.jpg": "/static/media/head-1.799e54b0c78f616cac10.jpg",
     "static/media/dp-library.png": "/static/media/dp-library.fc5a88b282dd21b86908.png",
     "static/media/debut.png": "/static/media/debut.155813a9f634c8ceaa84.png",
@@ -66,7 +66,7 @@
     "static/media/npm.svg": "/static/media/npm.cfefff6aa6e12dabb79f1cdbf782a317.svg",
     "static/media/css.svg": "/static/media/css.03500c0e60ab8abd44032fd7051eb59f.svg",
     "main.a32befe5.css.map": "/static/css/main.a32befe5.css.map",
-    "main.3e2201dc.js.map": "/static/js/main.3e2201dc.js.map",
+    "main.7f936d10.js.map": "/static/js/main.7f936d10.js.map",
     "227.aff8e432.chunk.js.map": "/static/js/227.aff8e432.chunk.js.map",
     "526.bfb1337c.chunk.js.map": "/static/js/526.bfb1337c.chunk.js.map",
     "232.3992674c.chunk.js.map": "/static/js/232.3992674c.chunk.js.map",
@@ -75,6 +75,6 @@
   },
   "entrypoints": [
     "static/css/main.a32befe5.css",
-    "static/js/main.3e2201dc.js"
+    "static/js/main.7f936d10.js"
   ]
 }
