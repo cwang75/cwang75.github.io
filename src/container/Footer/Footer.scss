@@ -1,0 +1,27 @@
+.footer {
+  padding: 40px 5px;
+  position: relative;
+  background-color: #ff724c;
+  //background-image: url('../../assets/img/wave2.png');
+  background-position: bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.footer-logo {
+  width: 100px;
+  margin-left: 30%;
+  //padding: 20px;
+}
+.footer p {
+  letter-spacing: 0.8px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.footer h4 {
+  letter-spacing: 0.8px;
+  text-align: center;
+}
+.footer a {
+  color: #2a2c41;
+  text-align: center;
+}
